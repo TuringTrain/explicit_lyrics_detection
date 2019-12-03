@@ -1,5 +1,5 @@
 # Explicit Content Detection in Lyrics
-This repository contains the code needed to run and reproduce results reported in our RANLP2019 paper.
+A demo of our explicit content detection can be found [here](https://github.com/micbuffa/WasabiDataset/blob/master/Showcase.ipynb). There you can also download the prediction model.
 
 ## Abstract
 The Parental Advisory Label (PAL) is a warning label that is placed on audio recordings in recognition of profanity or inappropriate references, with the intention of alerting parents of material potentially unsuitable for children. Since 2015, digital providers - such as iTunes, Spotify, Amazon Music and Deezer - also follow PAL guidelines and tag such tracks as "explicit".
